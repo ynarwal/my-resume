@@ -1,0 +1,116 @@
+{
+    "basics": {
+      "name": "Yash Narwal",
+      "label": "Web Developer",
+      "summary": "I’m a full stack web developer who can build apps from the ground up. I've worked mostly at small companies so I am use to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
+      "website": "https://ynarwal.me",
+      "email": "ynarwal10@gmail.com",
+      "location": {
+        "city": "Melbourne",
+        "countryCode": "AU"
+      },
+      "profiles": [
+        {
+          "url": "https://github.com/ynarwal",
+          "username": "ynarwal",
+          "network": "github"
+        }
+      ]
+    },
+    "education": [
+      {
+        "endDate": "2016-07-01",
+        "startDate": "2013-07-01",
+        "area": "Computer Science",
+        "studyType": "Bachelors",
+        "institution": "The University of Melbourne"
+      }
+    ],
+    "references": [
+      {
+        "reference": "Yash is a talented, dynamic and a hard working individual. I had the opportunity of collaborating with him while working on a website project. Yash with his solid experience in Ruby On Rails lead the group in the application design and development phase. He is exhaustive and creative with his approach and always comes up with new out of the box ideas. I would recommend Yash to anyone has he is a delight to work with",
+        "name": "Arjun Kapoor, Consultant at Deloitte Australia."
+      }
+    ],
+    "skills": [
+      {
+        "keywords": [
+          "HTML / JSX",
+          "CSS / Styled Components",
+          "Javascript / Typescript",
+          "React",
+          "Mobx"
+        ],
+        "level": "Senior",
+        "name": "Frontend"
+      },
+      {
+        "keywords": ["Python", "C#", "Django", "Postgres", "Redis", "Celery"],
+        "level": "Senior",
+        "name": "Backend"
+      },
+      {
+        "keywords": ["AWS", "G Cloud", "Heroku", "Kubernetes", "Docker"],
+        "level": "Mid level",
+        "name": "Devops"
+      }
+    ],
+    "work": [
+      {
+        "summary": "We solve business problems with custom-designed technology.",
+        "website": "https://www.blitzm.com.au/",
+        "company": "Blitzm",
+        "location": "Melbourne",
+        "position": "Senior Web Developer",
+        "startDate": "2016-07-21",
+        "highlights": [
+          "React, Typescript, Python, C#",
+          "Python/Django/Dotnet core",
+          "Docker/AWS/Kubernetes",
+          "Working on complex data driven web portals"
+        ]
+      },
+      {
+        "summary": "We are a CREATIVE CONSULTANCY driven by data & tech",
+        "website": "https://www.wundermanthompson.com/australia/",
+        "company": "Wunderman Thompson",
+        "location": "Melbourne",
+        "position": "Frontend Developer",
+        "startDate": "2015-11-01",
+        "endDate": "2015-07-01",
+        "highlights": [
+          "Html, jQuery, CSS, Bootstrap",
+          "Python",
+          "Worked on a form library to help other web developers to pump new marketing forms effciently."
+        ]
+      },
+      {
+        "summary": "We are a leading Microsoft Dynamics implementation and support provider.",
+        "website": "http://www.bortell.com.au/",
+        "company": "Botell Dynamic Edge",
+        "location": "Melbourne",
+        "position": "Software Developer",
+        "startDate": "2014-11-25",
+        "endDate" : "2015-08-20",
+        "highlights": [
+          "C#, Dotnet",
+          "CRM API integration",
+          "Working on native windows app"
+        ]
+      }
+    ],
+    "interests": [
+      {
+        "name": "Gym"
+      },
+      {
+        "name": "Music"
+      },
+      {
+        "name": "Night out"
+      },
+      {
+        "name": "Open Source"
+      }
+    ]
+  }

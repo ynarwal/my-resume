@@ -1,0 +1,4 @@
+node_mdules/
+devops/.pulumi/
+kubeconfig*
+Pulumi.dev.yaml
